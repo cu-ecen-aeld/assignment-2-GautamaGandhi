@@ -39,7 +39,7 @@ int main(int argc, char **argv)
     // File Descriptor
     int fd;
 
-    // 
+    // Variable to store bytes written
     ssize_t nr;
 
     // Filepath and string to be written
